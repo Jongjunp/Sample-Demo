@@ -351,8 +351,10 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/FirstPersonCam.cs"
+"Assets/PhotoCounter.cs"
 "Assets/QuarterView 3D Action BE5/ReadMe/Scripts/ReadmeBE5.cs"
+"Assets/Scripts/FirstPersonCam.cs"
+"Assets/Scripts/GameManager.cs"
 -langversion:9.0
 
 /deterministic
